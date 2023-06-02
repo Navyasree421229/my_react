@@ -1,0 +1,25 @@
+body{
+  background-image: url(https://img.freepik.com/premium-photo/abstract-colorful-oblique-lines-background-colorful-background_613001-1132.jpg?size=626&ext=jpg&ga=GA1.1.1724994897.1679665966&semt=sph );
+  background-position : center;
+  background-size : cover;
+  background-attachment: fixed;
+}
+.App1 img{
+  position: relative;
+  left: 50px;
+  top:100px;
+}
+.App2 img{
+  position: relative;
+  left: 430px;
+  bottom: 342px;
+}
+.App3 img{
+  position: relative;
+  left: 850px;
+  bottom:780px;
+}
+.Navy{
+  position: relative;
+  bottom: 700px;
+}
